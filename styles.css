@@ -34,3 +34,16 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     color:brown;
 }
+
+.skill-heading.features-section, .skill-heading.badges-section {
+    margin-top: 100px;
+}
+.card {
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.card-min-text {
+    color:darkblue
+}
